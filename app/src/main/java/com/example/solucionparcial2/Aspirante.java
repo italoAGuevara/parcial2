@@ -60,7 +60,7 @@ public class Aspirante implements Serializable {
         Carrera = carrera;
     }
 
-    public Float getValorApagar() {
+    public float getValorApagar() {
         return ValorApagar;
     }
 
